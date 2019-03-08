@@ -226,7 +226,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Menu = this.mainMenu;
             this.Name = "frmMain";
-            this.Text = "RAW File Viewer 2008 R2";
+            this.Text = "RAW File Viewer 2014";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMain_FormClosing);
             this.toolStrip.ResumeLayout(false);

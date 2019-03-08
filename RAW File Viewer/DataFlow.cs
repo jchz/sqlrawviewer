@@ -1,4 +1,4 @@
-﻿// Description: SSIS 2008 Package Programming to move data from the RAWFile to DataGridView
+﻿// Description: SSIS 2014 Package Programming to move data from the RAWFile to DataGridView
 //              using Data Reader as Destination
 // Created by:  Mitulkumar Brahmbhatt
 // Modified by: Simon Trigona
